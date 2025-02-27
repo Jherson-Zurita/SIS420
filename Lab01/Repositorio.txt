@@ -1,2 +1,2 @@
-github : https://github.com/Jherson-Zurita/SIS420
+github : https://github.com/Jherson-Zurita/SIS420/tree/main/Lab01
 gitlab : https://gitlab.com/sis4202/Lab01
